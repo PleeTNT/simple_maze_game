@@ -1,0 +1,1 @@
+path_start(pth_enemyr1, 3, path_action_continue, true);
