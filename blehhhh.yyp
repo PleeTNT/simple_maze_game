@@ -15,6 +15,7 @@
     {"id":{"name":"pth_enemyr1","path":"paths/pth_enemyr1/pth_enemyr1.yy",},"order":0,},
     {"id":{"name":"obj_healthpickup","path":"objects/obj_healthpickup/obj_healthpickup.yy",},"order":2,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":5,},
+    {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},"order":6,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
